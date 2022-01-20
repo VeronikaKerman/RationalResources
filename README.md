@@ -15,7 +15,7 @@ The following templates have been made available. **Unique** entries are templat
 The Star series templates apply resource bands in the vein of [Stellar Populations](https://en.wikipedia.org/wiki/Stellar_population), automatically making them all viable as mining destinations for interstellar vessels. Population 1 is current and rich with many common resources while the later ones retreat in time to a younger universe and become increasingly abundant in only Hydrogen and CRP's Antimatter or Classic Stock's Graviolium.
 
 | Surface | Ocean | Atmosphere | Exo (Trace) |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- | --- |
 | Rock | Terra | Default (CO2-rich) | Rock |
 | Silica | Nitrogen | Terra |  Ice |
 | Vulcan | Methane | Vulcan |  None |
@@ -58,7 +58,7 @@ With some partial respect to realism, this mod drastically reduces the presence 
 ## ISRU
  With omnipotent Ore being stripped of its Godhood, the following ISRU chains are proposed and encouraged for use by seasoned modders. Ore abundance is capped to 5% and its presence chance to 80%. It will be inconvenient for most players... but it will still be around.
 
-Ore tanks will be changed via B9 Part Switch, to hold the cryogenic input resources. The intended ISRU chains that will be provided can be viewed in [Issue #1](https://github.com/JadeOfMaar/RealisticResources/issues/1).
+Ore tanks will be changed via B9 Part Switch, to hold the cryogenic input resources. The intended ISRU chains that will be provided can be viewed in [Issue JadeOfMaar#1](https://github.com/JadeOfMaar/RealisticResources/issues/1).
 
 ## Compatibility
 Rational Resources purges resource distributions placed by most other mods. Untagged resource distributions are all deleted in the ModuleManager `:FOR[zRationalResources]` pass. The whitelisting mentioned below largely only applies to global/universal placements, and nearly no specific/per-planet placements in order to prevent unwanted high concentrations like Karbonite on Eve.
